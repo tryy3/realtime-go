@@ -1,4 +1,4 @@
-module github.com/overseedio/realtime-go
+module github.com/tryy3/realtime-go
 
 go 1.16
 
